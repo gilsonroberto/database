@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "name": "Ademilson Souza", "password": "[4YH&;7h", "email": "ademilson@ademilson.com" },
+    { "id": 2, "name": "Maria Joaquina", "password": "XrI7]zei", "email": "maria@maria.com" },
+    { "id": 3, "name": "João Alves", "password": "5oTQA3.1", "email": "joao@joao.com" },
+    { "id": 4, "name": "Vinicius Souza", "password": "K@+%*dW4", "email": "vinicius@vinicius.com" }
+  ]
+}
